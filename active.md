@@ -185,7 +185,7 @@ For our [International Trade Flow](/openfootprint/trade/) we can integrate our [
 
 TO DO: Pull into SQL DuckDB
 
-[Javascript updates for US EPA impact reports](/useeio.js/footprint/)  
+[Javascript updates for US EPA impact reports](/useeio.js/footprint/) - Lakshit 
 [React Team - Mosaic column checkboxes](/io/charts)  - Pallavi 
 [React Team - Commodity Totals](/localsite/info/data/totals/) in [Jobs Reports](/localsite/info/#indicators=JOBS)
 [Impact Label Pipeline](/apps/impact) - Starting point for duplicating US EPA RStudio in python
