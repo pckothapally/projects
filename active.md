@@ -38,14 +38,15 @@ Please actively update README files. Add status updates and deployment steps, co
 
 [Fork and clone related repos](../localsite/start/steps/) - When writing Loren, include a review link. Your review link will be: [youraccount].github.io/[therepo] once you've turned on Github Pages for your both your fork of the repo and for your fork of the [localsite repo](https://github.com/modelearth/localsite/).
 
-You can [edit the current page](https://github.com/ModelEarth/projects/blob/main/active.md) to add your first name by the projects below, and add details for new updates. Submit a PR and write Loren.
+You can [edit the current page](https://github.com/ModelEarth/projects/blob/main/active.md) to add your first name by the projects below, and add details for new updates.  
+Also send an email whenever yiou submit a PR.
 
 
-## 1. Javascript Data Visualization (Everybody's Home Page)
+## 1. Javascript Data Visualization (JS)
 
 Our [Everybody's Home Page](../home) process is being designed to display infinite content based on parameters.
 
-IN PROGRESS: [Javascript Timelines from Google Data Commons API](/data-commons/docs/data/) - Priyanka, Mehul <!--Aishwrya, Vishnupriya-->
+IN PROGRESS: [Javascript Timelines from Google Data Commons API](/data-commons/docs/data/) - Priyanka<!--Mehul, Aishwrya, Vishnupriya-->
 
 TO DO: Update our existing [address auto-lookup](../home/) to set state=NY etc. in the URL hash. (Currently visible on [localhost only](http://localhost:8887/home/).) - Jennifer(Jeni)
 
@@ -64,7 +65,7 @@ We're pulling images and video via [our FeedPlayer](https://model.earth/feed) wh
 TO DO: [Hosting DataCommons locally with Flask](/localsite/info/data/datacommons) - Vishnupriya and our GDC team
 -->
 
-## 2. Ai Javascript with LLM APIs (Planet repo)
+## 2. Planet Ai - Javascript with LLM APIs (AI)
 
 Our [repo pull page](../home/repo) uses GitHub's API to load images, music and text to send to LLM APIs using javascript.
 
@@ -123,7 +124,7 @@ for Interactive presentation backgrounds, Request Visualization
 [Google Notebook LM](https://notebooklm.google)
 
 
-## 3. RealityStream ML - Server-Side Python
+## 3. RealityStream Machine Learning - Server-Side Python (ML)
 
 [Run Models Colab](/RealityStream/)
 
@@ -159,7 +160,7 @@ TO DO: Send URL hash # parameters to our [Run Models CoLab](/RealityStream) usin
 - [Push EPA date to Google Data Commons API](https://docs.datacommons.org/api/)
 
 
-## 4. International Trade Flow - Python, SQL, Javascript
+## 4. International Trade Flow - Python, SQL, Javascript (IO)
 
 TO DO: Processing Exiobase in CoLabs, displaying with javascript
 
@@ -185,17 +186,21 @@ For our [International Trade Flow](/openfootprint/trade/) we can integrate our [
 
 TO DO: Pull into SQL DuckDB
 
-[Javascript updates for US EPA impact reports](/useeio.js/footprint/) - Lakshit , Abhishek Nayak
+[Javascript updates for US EPA impact reports](/useeio.js/footprint/) - Lakshit, Abhishek N
 [React Team - Mosaic column checkboxes](/io/charts)  - Pallavi 
 [React Team - Commodity Totals](/localsite/info/data/totals/) in [Jobs Reports](/localsite/info/#indicators=JOBS)
 [Impact Label Pipeline](/apps/impact) - Starting point for duplicating US EPA RStudio in python
 
 
-## 5. BuildingTransparency.org API - Open Footprint Interactive Labels
+## 5. Open Footprint Interactive Labels (Open)
 
-[Open Footprints](/food/) - [Product Impact API](/OpenFootprint/products/), Add javascript tp [Feed View](/feed/view/)  
+[Open Footprint Builder](/io/template/) - [Profile Object Javascript](/food/) - [BuildingTransparency.org Impact API](/OpenFootprint/products/)
 
+
+
+<!--
 [Food Nutrition Labels](/data-commons/docs/food) - Shali and Wenwei (Stella)
+-->
 
 **BuildingTransparency and Open Footprint labels**
 
@@ -208,7 +213,9 @@ Bhavna, Yash, Apurva
 
 
 
-## 6. React FeedPlayer with MemberSense - Embeddable Viewer for Images and Video
+## 6. FeedPlayer with MemberSense (React)
+
+Embeddable player for Image and Video sequences pulled from APIs and Google Sheets
 
 - [Discord API](https://discord.com/developers/docs/intro) - Our Team list is pulled from Discord into our [Feed Player](https://model.earth/feed/) 
 
