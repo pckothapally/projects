@@ -23,7 +23,8 @@ Our [sync.py script](setup/customize) removes custom code so we can sync with th
 To avoid merge errors, if you're making updates in the "src" and "backend" folders,
 append "-team" to the names of the files you've copied and customized.
 
-TO DO: Try simple edits in our [open-webui-earthscape](https://github.com/earthscape/open-webui-earthscape) fork. (Write Loren to be added as a contributor.)
+TO DO: Experiment in our [open-webui-earthscape](https://github.com/earthscape/open-webui-earthscape) fork.
+
 
 ## Our OpenWebUI Projects
 
