@@ -39,7 +39,7 @@ Please actively update README files. Add status updates and deployment steps, co
 [Fork and clone related repos](../localsite/start/steps/) - When writing Loren, include a review link. Your review link will be: [youraccount].github.io/[therepo] once you've turned on Github Pages for your both your fork of the repo and for your fork of the [localsite repo](https://github.com/modelearth/localsite/).
 
 You can [edit the current page](https://github.com/ModelEarth/projects/blob/main/active.md) to add your first name by the projects below, and add details for new updates.  
-Also send an email whenever yiou submit a PR.
+Also send an email whenever you submit a PR.
 
 
 ## 1. Javascript Data Visualization (JS)
@@ -204,10 +204,10 @@ TO DO: Pull into SQL DuckDB
 
 **BuildingTransparency and Open Footprint labels**
 
-Bhavna, Yash, Apurva
+Bhavna, Yash, Apurva, Vennela
 
 - [Use our state map filter](#geoview=country) with colors for [new USEEIO reporting maps](https://figshare.com/collections/USEEIO_State_Models_v1_0_-_Supporting_Figures/7041473)
-- [BuildingTransparency - Product Impact Profiles by State and Zip](/io/template/feed/) - TO DO <!--Ronan-->
+- [BuildingTransparency - Product Impact Profiles by State and Zip](/io/template/feed/) - TO DO <!--Ronan--> - Vennela
 - [BuildingTransparency - API Aggregates of States and Countries](/io/template/product/) - Initially Luwei
 - [BuildingTransparency - JSON file pull for impact templates](/io/template/product/) - Apurva
 
