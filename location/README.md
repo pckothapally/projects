@@ -4,18 +4,26 @@
 
 [Our Google Cloud experiments](setup/google-cloud) aim to use only API pipelines so we can avoid CPU use locally.
 
+TO DO: Try Docker command for [omitting Ollama](setup/customize)
+
 If you're contributing code, here are our steps to [install and build locally](setup/guides) and [more detailed setup notes](setup).  
-Work in the "modelearthbranch" so the version number does not need to be incremented.  
 If you're NOT contributing code while building locally, use the faster [local Docker install](setup/docker) instead.  
 
-To build and contribute locally, you'll skip the local Docker install. Fork one of our forks:
+To build and contribute locally, you'll skip the local Docker install.
 
-**“Actions” tabs from our two forks:** 
-A. [datascape/open-webui](https://github.com/datascape/open-webui/actions) - Fresh fork, the least broken<!-- (source of [workflow PR](https://github.com/ModelEarth/projects/pull/7) also applied to projects repo)-->  
-B. [earthscape/open-webui-earthscape](https://github.com/earthscape/open-webui-earthscape/actions) - A little broken
+Fork and clone one of our forks:
+
+**“Actions” tabs within our forks:** 
+A. [modelearth/open-webui](https://github.com/modelearth/open-webui/actions) - Fresh fork
+B. [datascape/open-webui](https://github.com/datascape/open-webui/actions) - Another fork
+<!--
+C. [earthscape/open-webui-earthscape](https://github.com/earthscape/open-webui-earthscape/actions) - A little broken
+-->
+
+Use our "modelearthbranch" so the version number does not need to be incremented.  
 
 
-## Contribute notes to our Open WebUI "projects/location" folder
+## Contribute notes to our Open WebUI "[projects/location](https://github.com/modelearth/projects/)" folder
 
 Our [customize.py script](setup/customize) is used to add our custom code.
 Our [sync.py script](setup/customize) removes custom code so we can sync with the parent.

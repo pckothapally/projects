@@ -71,7 +71,7 @@ TO DO: [Hosting DataCommons locally with Flask](/localsite/info/data/datacommons
 
 Our [repo pull page](../home/repo) uses GitHub's API to load images, music and text to send to LLM APIs using javascript.
 
-TO DO: Add javascript to our [Planet repo](https://github.com/modelearth/planet/) that uses [Langchain's Chat Model Interface](https://python.langchain.com/docs/concepts/chat_models/), send a page from any GitHUb repo to an AI API like OpenAI to provide Retrieval Augmented Generation (RAG) using [LangChain.js](https://api.js.langchain.com) javascript. - Dhananjay, Kelly, 
+TO DO: Add javascript to our [Planet repo](https://github.com/modelearth/planet/) that uses [Langchain's Chat Model Interface](https://python.langchain.com/docs/concepts/chat_models/), send a page from any GitHUb repo to an AI API like OpenAI to provide Retrieval Augmented Generation (RAG) using [LangChain.js](https://api.js.langchain.com) javascript. - Dhananjay, Kelly, Adithya
 
 TO DO: Integrate [our API storage in javascript](/localsite/tools/storage/api/) to store API keys locally.
 
