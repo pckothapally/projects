@@ -109,9 +109,7 @@ Using [Google Data Commons DataGemma AI](https://ai.google.dev/gemma/docs/datage
 
 Our [Open WebUI for Locations](location/) experimental efforts aimed at [Retrieval Augmented Generation (RAG)](https://docs.openwebui.com/features/rag/) for "context window" recency.<!-- Next: Text to Action / Nividia Kuda is their advantage = code library that interacts with chip -->
 
-Our work toward running [OpenWebUI with an External Ollama Pipeline](/projects/location/setup/customize/)  
-uses our Customize.py script to remove local use of Ollama.  
-And our Sync.py script to add-back Ollama to sync with the [OpenWebUI parent repo](https://github.com/open-webui/open-webui).
+TO DO: Try new Ollama omit command `ENABLE_OLLAMA_API=False` with Google Cloud. Hopefully we no longer need to develop our [Customize.py script](/projects/location/setup/customize/) to remove local use of Ollama. Nor our Sync.py script to add-back Ollama to sync with the [OpenWebUI parent repo](https://github.com/open-webui/open-webui).
 
 TO DO: [Add localsite.js to OpenWebUI](/projects/location/) - Use our [Building Branches Locally](/projects/location/setup/) techniques within our [Datascape fork](https://github.com/datascape/open-webui/actions)
 
