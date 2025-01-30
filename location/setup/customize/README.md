@@ -1,5 +1,16 @@
 # Customize: make Ollama an external pipeline
 
+New way to [omit Ollama](https://github.com/open-webui/open-webui/discussions/1287) by setting `ENABLE_OLLAMA_API=False`
+
+	docker run -d -p 3000:8080 -e ENABLE_OLLAMA_API=False -v open-webui:/app/backend/data --name open-webui ghcr.io/open-webui/open-webui:main
+
+
+TO DO: Test the above and update our [Google Cloud Notes](../google-cloud/)
+
+The above make make all of the following unnecessary.
+
+## Remove Ollama / Reactivate Ollama for Syncing
+
 [OpenWebUI](https://github.com/open-webui/open-webui) uses pipelines to connect to hundreds of LLMs, but the default UX doesn't use a pipeline to connect to the Ollama API  itself. With our modifications, the cost on Google Cloud will hopefully drop from $78/mo to less than $40/mo by connecting to Ollama as an external API pipeline.
 
 The python process below adds/removes the Ollama install within OpenWebUI so we can use an external Ollama pipeline API to reduce hosting costs.

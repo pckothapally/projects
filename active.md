@@ -48,7 +48,7 @@ Our [Everybody's Home Page](../home) process is being designed to display infini
 
 IN PROGRESS: [Javascript Timelines from Google Data Commons API](/data-commons/docs/data/) - Priyanka<!--Mehul, Aishwrya, Vishnupriya-->
 
-TO DO: Update our existing [address auto-lookup](../home/) to set state=NY etc. in the URL hash. (Currently visible on [localhost only](http://localhost:8887/home/).) - Jennifer(Jeni)
+IN PROGRESS: Update our existing [address auto-lookup](../home/) to set state=NY etc. in the URL hash. (Currently visible on [localhost only](http://localhost:8887/home/).) - Jennifer(Jeni)
 
 We're pulling images and video via [our FeedPlayer](https://model.earth/feed) which can be pointed at a Github repo or any API.
 
@@ -67,11 +67,24 @@ TO DO: [Hosting DataCommons locally with Flask](/localsite/info/data/datacommons
 
 ## 2. Planet Ai - Javascript with LLM APIs (AI)
 
+[Planet AI Dev](/planet) within our [Planet Repo](https://github.com/modelearth/planet) for our Langchain JS.
+
 Our [repo pull page](../home/repo) uses GitHub's API to load images, music and text to send to LLM APIs using javascript.
 
-TO DO: Add javascript to our [Planet repo](https://github.com/modelearth/planet/) that uses [Langchain's Chat Model Interface](https://python.langchain.com/docs/concepts/chat_models/), send a page from any GitHUb repo to an AI API like OpenAI to provide Retrieval Augmented Generation (RAG) using [LangChain.js](https://api.js.langchain.com) javascript. - Dhananjay, Luyang 
+TO DO: Add javascript to our [Planet repo](https://github.com/modelearth/planet/) that uses [Langchain's Chat Model Interface](https://python.langchain.com/docs/concepts/chat_models/), send a page from any GitHUb repo to an AI API like OpenAI to provide Retrieval Augmented Generation (RAG) using [LangChain.js](https://api.js.langchain.com) javascript. - Dhananjay, Kelly, 
 
-TO DO: Integrate [our API storage in javascript](/localsite/tools/storage/api/) to store API keys locally. - Dhananjay
+TO DO: Integrate [our API storage in javascript](/localsite/tools/storage/api/) to store API keys locally.
+
+TO DO: Pull SeeClickFix API and feed to Langchain
+
+https://model.earth/feed/view/#feed=seeclickfix-311
+
+Also, by choosing "SeeClickFix - v2" in the upper right dropdown menu images are displayed:
+
+https://model.earth/feed
+
+The Langchain API "planet" repo could identify 3 solvable issues in the SeeClickFix feed and provide cost estimates for resolving issues with the involvement of local contractors and government agencies.
+
 
 <!--See also: DataStax Astra DB-->
 
