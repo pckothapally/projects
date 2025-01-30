@@ -36,7 +36,7 @@ Select one of the 7 project areas below and add your first name below by editing
 
 Please actively update README files. Add status updates and deployment steps, correct existing notes. Send Loren an email whenever you send a pull request. If you are uncertain about an edit, make your best guess and email Loren AFTER you submit the PR.
 
-[Fork and clone related repos](../localsite/start/steps/) - When writing Loren, include a review link. Your review link will be: [youraccount].github.io/[therepo] once you've turned on Github Pages for your both your fork of the repo and for your fork of the [localsite repo](https://github.com/modelearth/localsite/).
+[Fork and clone related repos](../localsite/start/steps/) - When writing Loren, include a review link. Your review link will be: [youraccount].github.io/[therepo] once you've turned on Github Pages for both your fork of the repo and your fork of the [localsite repo](https://github.com/modelearth/localsite/).
 
 You can [edit the current page](https://github.com/ModelEarth/projects/blob/main/active.md) to add your first name by the projects below, and add details for new updates.  
 Also send an email whenever you submit a PR.
