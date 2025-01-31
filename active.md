@@ -111,7 +111,7 @@ Our [Open WebUI for Locations](location/) experimental efforts aimed at [Retriev
 
 TO DO: Try new Ollama omit command `ENABLE_OLLAMA_API=False` with Google Cloud. Hopefully we no longer need to develop our [Customize.py script](/projects/location/setup/customize/) to remove local use of Ollama. Nor our Sync.py script to add-back Ollama to sync with the [OpenWebUI parent repo](https://github.com/open-webui/open-webui).
 
-TO DO: [Add localsite.js to OpenWebUI](/projects/location/) - Use our [Building Branches Locally](/projects/location/setup/) techniques within our [Datascape fork](https://github.com/datascape/open-webui/actions)
+TO DO: [Add localsite.js to OpenWebUI](/projects/location/) - steps for [Building Branches Locally](/projects/location/setup/) within a fork of the [Modelearth OpenWebUI fork (modelearthbranch)](https://github.com/ModelEarth/open-webui/tree/modelearthbranch)
 
 ### Earthscape NextJS Chatbot UI fork
 
