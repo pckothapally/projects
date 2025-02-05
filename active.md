@@ -181,7 +181,7 @@ Contributors: Gary, Satya, Himanshu, Sahil
 
 [Our little trade flow Sankey](/OpenFootprint/trade/) - [Big Sankey](https://sankey.theshiftproject.org/) - [Our Fork with python 3.10](https://github.com/ModelEarth/Mapping-global-ghg-emissions) and [bug resolved](https://github.com/baptiste-an/Mapping-global-ghg-emissions/issues/2)
 
-TO DO: [Chord Chart Data Prep](/io/charts/chord/) <!-- Poorna and everyone interested -->
+TO DO: [Chord Chart Data Prep](/io/charts/chord/) <!-- Poorna and everyone interested --> - Bin
 
 TO DO: [Python to pull Harmonized Code (HS) lookups into Supabase](/OpenFootprint/harmonized-system/) - Kruthi
 
