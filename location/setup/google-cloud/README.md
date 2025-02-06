@@ -32,6 +32,14 @@ Check the lien list to confirm it's beed added:
     gcloud alpha resource-manager liens list
 
 
+## TO TRY: ENABLE_OLLAMA_API=False
+
+New way to [omit Ollama](https://github.com/open-webui/open-webui/discussions/1287) by setting `ENABLE_OLLAMA_API=False`
+
+    docker run -d -p 3000:8080 -e ENABLE_OLLAMA_API=False -v open-webui:/app/backend/data --name open-webui ghcr.io/open-webui/open-webui:main
+
+
+
 <!-- Turn off with "Shut Down" under Settings
 https://console.cloud.google.com/iam-admin/settings?authuser=2&project=openfootprint
 -->
@@ -60,7 +68,7 @@ The open-webui, open-webui-pipeline and modelearth-open-webui images are already
 
 1. Open the **Repositories** page in the [Google Cloud console](https://console.cloud.google.com/welcome?project=openwebui-projects1&authuser=2).
 
-[Open the Repositoies page](https://console.cloud.google.com/artifacts) - You will enable "Artifact Registry API"
+[Open the Repositories page](https://console.cloud.google.com/artifacts) - You will enable "Artifact Registry API"
 2. Click Create Repository
 3. Specify `open-webui` as the repo name
 4. Choose **Docker** as the format and **Standard** as mode

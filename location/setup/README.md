@@ -11,6 +11,8 @@ If you already have an "open-webui" Docker container, your OpenWebUI server may 
 Alternatively, use the local [Docker Setup](docker) for an even quicker install using Ollama to load models. The page also includes experiments in which we extract backend files to edit in a Webroot. We're not sure if the pre-build frontend files can reside in the Docker container images.
 
 Our [Google Cloud deployment notes](google-cloud) - includes cost comparison.
+
+IN PROGRESS: Shubham is documenting [ENABLE\_OLLAMA\_API=False with Google Cloud](https://chatgpt.com/share/67a3f653-4a94-8003-ab30-99c176157ef3).
 <br>
 
 # Install for Building Locally (without Docker)
