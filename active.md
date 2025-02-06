@@ -173,6 +173,8 @@ TO DO: Send URL hash # parameters to our [Run Models CoLab](/RealityStream) usin
 
 ## 4. International Trade Flow - Python, SQL, Javascript (IO)
 
+TO DO:  Find and embed/fork existing open source [UN Comtrade visualizations](https://comtradeplus.un.org/Visualization/Labs) with Exiobase data and/or [MARIO python](https://mario-suite.readthedocs.io/en/latest/intro.html). 
+
 TO DO: Processing Exiobase in CoLabs, displaying with javascript
 
 Contributors: Gary, Satya, Himanshu, Sahil
