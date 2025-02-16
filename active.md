@@ -41,7 +41,7 @@ Please actively update README files. Add status updates and deployment steps, co
 You can [edit the current page](https://github.com/ModelEarth/projects/blob/main/active.md) to add your first name by the projects below, and add details for new updates.  
 Also send an email whenever you submit a PR.
 
-TO DO: Use our [cloud repo](https://github.com/ModelEarth/cloud) and add Flask deployment documentation. [Our webhook repo](https://github.com/ModelEarth/webhook) has Google Cloud documentation to copy and update for your Flask hosting setup example.
+TO DO: Use our [cloud repo](https://github.com/ModelEarth/cloud) and add Flask deployment documentation. [Our webhook repo](https://github.com/ModelEarth/webhook) has Google Cloud Flask documentation to copy and update for your Flask hosting setup examples.
 
 
 ## 1. Javascript Data Visualization (JS)
