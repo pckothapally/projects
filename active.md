@@ -139,6 +139,8 @@ for Interactive presentation backgrounds, Request Visualization
 
 [Run Models Colab](/RealityStream/)
 
+Related frontend deployments deployed to Google Cloud with Flask can be tested in our [cloud repo](https://github.com/ModelEarth/cloud). Add a folder for yourself in the cloud repo. These two repos have Flask examples: [Our webhook](https://github.com/ModelEarth/webhook) and [OpenWebUI](https://github.com/open-webui/open-webui). Doucument your Flask deployment commands.
+
 TO DO: Javascript interface to choose from our existing pre-processed [job data](/RealityStream) and Google Data Commons API.
 
 TO DO: Send URL hash # parameters to our [Run Models CoLab](/RealityStream) using a [webhook on Google Cloud (ChatGPT)](https://chatgpt.com/share/670e7002-85fc-8003-a466-9b682012f3ea)
