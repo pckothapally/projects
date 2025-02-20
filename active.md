@@ -160,7 +160,7 @@ TO DO: Send URL hash # parameters to our [Run Models CoLab](/RealityStream) usin
 - [RealityStream](/RealityStream/) - Machine Learning Classification Models - Xucen
 - [Process Industry NAICS by Zip Code](/community-zipcodes/mail) - DONE Yunbo
 - [ML for Community Forecasting Timelines](../data-pipeline/timelines/) - Zip code pipeline - TO DO - Amey - Poshan
-- [Open Data Panels - YAML Display](/OpenFootprint) - Microsoft Plug and Play - TO DO
+- [Open Data Panels - YAML Display](/profile) - Microsoft Plug and Play - TO DO
 
 - [Top Commodities by State (hide sort columns)](/data-pipeline/research/economy) - Dinesh
 - [State Regions using Sets of Counties](/community-data/us/edd/) - Dinesh
@@ -183,21 +183,21 @@ TO DO: Processing Exiobase in CoLabs, displaying with javascript
 
 Contributors: Gary, Satya, Himanshu, Sahil
 
-[International Trade Flow SQL Data Prep](/OpenFootprint/trade) - Exiobase Colab and charts
+[International Trade Flow SQL Data Prep](/profile/trade) - Exiobase Colab and charts
 
-[Our little trade flow Sankey](/OpenFootprint/trade/) - [Big Sankey](https://sankey.theshiftproject.org/) - [Our Fork with python 3.10](https://github.com/ModelEarth/Mapping-global-ghg-emissions) and [bug resolved](https://github.com/baptiste-an/Mapping-global-ghg-emissions/issues/2)
+[Our little trade flow Sankey](/profile/trade/) - [Big Sankey](https://sankey.theshiftproject.org/) - [Our Fork with python 3.10](https://github.com/ModelEarth/Mapping-global-ghg-emissions) and [bug resolved](https://github.com/baptiste-an/Mapping-global-ghg-emissions/issues/2)
 
 TO DO: [Chord Chart Data Prep](/io/charts/chord/) <!-- Poorna and everyone interested --> - Bin
 
-TO DO: [Python to pull Harmonized Code (HS) lookups into Supabase](/OpenFootprint/harmonized-system/) - Kruthi
+TO DO: [Python to pull Harmonized Code (HS) lookups into Supabase](/profile/harmonized-system/) - Kruthi
 
-TO DO: [Sankey Industry eChart](/OpenFootprint/charts/echarts/sankey-nodeAlign-left.html) - eCharts uses a common echarts.min.js file which we'll load in [Feed Viewer](/feed/view)
+TO DO: [Sankey Industry eChart](/profile/charts/echarts/sankey-nodeAlign-left.html) - eCharts uses a common echarts.min.js file which we'll load in [Feed Viewer](/feed/view)
 
 TO DO: [Python - Finalize our All the Places data by State and Zip](/places) - Poshan
 
 #### Exiobase and Flask
 
-For our [International Trade Flow](/openfootprint/trade/) we can integrate our [Exiobase-Global-Trade GitHub Repo](https://github.com/modelearth/exiobase-global-trade) and a new [Comtrade API pull](https://github.com/ModelEarth/exiobase-global-trade/tree/main/comtrade)
+For our [International Trade Flow](/profile/trade/) we can integrate our [Exiobase-Global-Trade GitHub Repo](https://github.com/modelearth/exiobase-global-trade) and a new [Comtrade API pull](https://github.com/ModelEarth/exiobase-global-trade/tree/main/comtrade)
 
 #### US EPA State Impacts
 
@@ -211,7 +211,7 @@ TO DO: Pull into SQL DuckDB
 
 ## 5. Open Footprint Interactive Labels (Open)
 
-[Open Footprint Builder](/io/template/) - [Profile Object Javascript](/food/) - [BuildingTransparency.org Impact API](/OpenFootprint/products/)
+[Open Footprint Builder](/io/template/) - [Profile Object Javascript](/food/) - [BuildingTransparency.org Impact API](/profile/products/)
 
 
 
@@ -244,7 +244,7 @@ Embeddable player for Image and Video sequences pulled from APIs and Google Shee
 - [Add Datawrapper.de](https://www.datawrapper.de/) using "link external dataset"
 
 - [Pull from Supabase (or backup file) into databricks SQL](https://chatgpt.com/share/d610d3e6-ce5f-4e7f-ba9e-4c74ec23abd4) - Apurva, Soham
-- [View DuckDB from Javascript](/OpenFootprint/prep/sql/duckdb/) - Kelly, Gary
+- [View DuckDB from Javascript](/profile/prep/sql/duckdb/) - Kelly, Gary
 -->
 
 

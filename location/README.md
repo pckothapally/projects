@@ -49,7 +49,7 @@ TO DO: Use Flask in a [projects/backend/location](https://github.com/ModelEarth/
 
 TO DO: Create an example of running [Run-Models-bkup.ipynb](https://github.com/ModelEarth/RealityStream/tree/main/models) saved from our [RealityStream CoLab](../../RealityStream/).
 
-TO DO: Set up [RAG context](https://docs.openwebui.com/tutorial/rag/) using our [Supabase International Trade Flow](../../OpenFootprint/prep/sql/supabase/) data.
+TO DO: Set up [RAG context](https://docs.openwebui.com/tutorial/rag/) using our [Supabase International Trade Flow](../../profile/prep/sql/supabase/) data.
 
 TO DO: Set up [RAG context](https://docs.openwebui.com/tutorial/rag/) using our [superthermal evaporation](../../evaporation-kits/) page and related articles.
 
