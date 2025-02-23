@@ -4,7 +4,7 @@
 
 [Our Google Cloud experiments](setup/google-cloud) aim to use only API pipelines so we can avoid CPU use locally.
 
-TO DO: Try Docker command for [omitting Ollama](setup/customize)
+TO DO: Try Docker command for [omitting Ollama](setup/customize) when writing commands in our [cloud repo](https://github.com/modelearth/cloud) that deploy OpenWebUI to Google Cloud or AWS.
 
 If you're contributing code, here are our steps to [install and build locally](setup/guides) and [more detailed setup notes](setup).  
 If you're NOT contributing code while building locally, use the faster [local Docker install](setup/docker) instead.  
