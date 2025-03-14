@@ -67,9 +67,9 @@ We're pulling images and video via [our FeedPlayer](https://model.earth/feed) wh
 TO DO: [Hosting DataCommons locally with Flask](/localsite/info/data/datacommons) - Vishnupriya and our GDC team
 -->
 
-## 2. Planet Ai - Javascript with LLM APIs (AI)
+## 2. Planet Langchain - Javascript with LLM APIs (AI)
 
-[Planet AI Dev](/planet) within our [Planet Repo](https://github.com/modelearth/planet) for our Langchain JS.
+[Planet Langchain Dev](/planet) within our [Planet Repo](https://github.com/modelearth/planet) for using [LangchainJS](https://github.com/langchain-ai/langchainjs).
 
 Our [repo pull page](../home/repo) uses GitHub's API to load images, music and text to send to LLM APIs using javascript.
 
@@ -125,16 +125,12 @@ Our [Earthscape fork of Chatbot UI](/earthscape/app/) - React, Supabase and [Nex
 Images and Videos from .CSV prompts 
 for Interactive presentation backgrounds, Request Visualization
 
-- [Ai Request Visualization](/requests/) - for Storyboards, Meal Planning and Project Visualization  
+- [Storyboard Generator](/data-pipeline/research/) - Loads location details using [community datasets](/community-data/)
+- [Ai Request Visualization](/requests/) - Loads prompts from .csv files and outputs to GitHub
 - [Music for Data Science](https://github.com/DreamStudioCode/music) - for [home/repo](/home/repo)
-
 - [Image Gallery (JQuery) and Video (Leonardo)](/data-pipeline/research/stream)
-- [Our Storyboard Generator](/data-pipeline/research/)
-- [Open Webui image generation](https://docs.openwebui.com/tutorial/images/) - Integrate our image .csv process
-  <!-- [Kishor's Repo](https://github.com/mannurkishorreddy/streamlit-replicate-img-app)-->
-  <!--- [Image Gallery (React)](/react-gallery/view/) - Anthony -->
-
-[Google Notebook LM](https://notebooklm.google)
+- [OpenWebUI image generation](https://docs.openwebui.com/tutorials/images/) 
+- [Google Notebook LM](https://notebooklm.google)
 
 
 ## 3. RealityStream Machine Learning - Server-Side Python (ML)
