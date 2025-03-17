@@ -135,13 +135,13 @@ for Interactive presentation backgrounds, Request Visualization
 
 ## 3. RealityStream Machine Learning - Server-Side Python (ML)
 
-[Run Models Colab](/RealityStream/)
+[Run Models Colab](/realitystream/)
 
 Related frontend deployments deployed to Google Cloud with Flask can be tested in our [cloud repo](https://github.com/ModelEarth/cloud). Add a folder for yourself in the cloud repo. These two repos have Flask examples: [Our webhook](https://github.com/ModelEarth/webhook) and [OpenWebUI](https://github.com/open-webui/open-webui). Doucument your Flask deployment commands.
 
-TO DO: Javascript interface to choose from our existing pre-processed [job data](/RealityStream) and Google Data Commons API.
+TO DO: Javascript interface to choose from our existing pre-processed [job data](/realitystream) and Google Data Commons API.
 
-TO DO: Send URL hash # parameters to our [Run Models CoLab](/RealityStream) using a [webhook on Google Cloud (ChatGPT)](https://chatgpt.com/share/670e7002-85fc-8003-a466-9b682012f3ea)
+TO DO: Send URL hash # parameters to our [Run Models CoLab](/realitystream) using a [webhook on Google Cloud (ChatGPT)](https://chatgpt.com/share/670e7002-85fc-8003-a466-9b682012f3ea)
 
 <!--
 **Anvil with our CoLabs:**
@@ -153,7 +153,7 @@ TO DO: Send URL hash # parameters to our [Run Models CoLab](/RealityStream) usin
 -->
 
 
-- [RealityStream](/RealityStream/) - Machine Learning Classification Models - Xucen - Prathyusha
+- [RealityStream](/realitystream/) - Machine Learning Classification Models - Xucen - Prathyusha
 - [Process Industry NAICS by Zip Code](/community-zipcodes/mail) - DONE Yunbo
 - [ML for Community Forecasting Timelines](../data-pipeline/timelines/) - Zip code pipeline - TO DO - Amey - Poshan
 - [Open Data Panels - YAML Display](/profile) - Microsoft Plug and Play - TO DO
