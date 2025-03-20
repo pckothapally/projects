@@ -6,11 +6,6 @@ medium.com subscription needed
 	https://bhavikjikadara.medium.com/how-to-install-open-webui-without-docker-33eedbda9b96
 -->
 
-
-<!--
-- [Observable Data Commons](/data-commons/) - [Open WebUI](location/) - [Storyboard Generator](/data-pipeline/research) - [Moonshots](/community/projects/)
--->
-
 <!--
 **Timely Projects**
 
@@ -125,10 +120,8 @@ Our [Earthscape fork of Chatbot UI](/earthscape/app/) - React, Supabase and [Nex
 Images and Videos from .CSV prompts 
 for Interactive presentation backgrounds, Request Visualization
 
-- [Storyboard Generator](/data-pipeline/research/) - Loads location details using [community datasets](/community-data/)
+- [Storyboard Generator](/requests/) - Loads location details using [community datasets](/community-data/)
 - [Ai Request Visualization](/requests/) - Loads prompts from .csv files and outputs to GitHub
-- [Music for Data Science](https://github.com/DreamStudioCode/music) - for [home/repo](/home/repo)
-- [Image Gallery (JQuery) and Video (Leonardo)](/data-pipeline/research/stream)
 - [OpenWebUI image generation](https://docs.openwebui.com/tutorials/images/) 
 - [Google Notebook LM](https://notebooklm.google)
 
@@ -155,10 +148,7 @@ TO DO: Send URL hash # parameters to our [Run Models CoLab](/realitystream) usin
 
 - [RealityStream](/realitystream/) - Machine Learning Classification Models - Xucen - Prathyusha
 - [Process Industry NAICS by Zip Code](/community-zipcodes/mail) - DONE Yunbo
-- [ML for Community Forecasting Timelines](../data-pipeline/timelines/) - Zip code pipeline - TO DO - Amey - Poshan
 - [Open Data Panels - YAML Display](/profile) - Microsoft Plug and Play - TO DO
-
-- [Top Commodities by State (hide sort columns)](/data-pipeline/research/economy) - Dinesh
 - [State Regions using Sets of Counties](/community-data/us/edd/) - Dinesh
 - [USEEIO matrix files with clustering](/machine-learning/python/cluster/) - <!--Honglin-->Rupesh
 
