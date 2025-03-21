@@ -27,17 +27,7 @@ Our weekly meetups are every [Thursday at 7pm ET](/io/coders/).
 
 Select one of the 7 project areas below and add your first name below by editing a [fork of the projects repo](https://github.com/ModelEarth/projects/blob/main/active.md), then send a PR.
 
-**Active OPT Volunteers:** If you're participacting as an OPT grad, please contribute at least one Pull Request (PR) per week to remain active.  
-
-Please actively update README files. Add status updates and deployment steps, correct existing notes. Send an email whenever you send a pull request. If you are uncertain about an edit, make your best guess and submit the PR anyway. Include any uncertainties in the email you send after submitting the PR.
-
-[Fork and clone related repos](../localsite/start/steps/) - When writing, include a review link. Your review link will be: [youraccount].github.io/[therepo] once you've turned on Github Pages for both your fork of the repo and your fork of the [localsite repo](https://github.com/modelearth/localsite/).
-
-You can [edit the current page](https://github.com/ModelEarth/projects/blob/main/active.md) to add your first name by the projects below, and add details for new updates.  
-Also send an email whenever you submit a PR.
-
-TO DO: Use our [cloud repo](https://github.com/ModelEarth/cloud) and add Flask deployment documentation. [Our webhook repo](https://github.com/ModelEarth/webhook) has Google Cloud Flask documentation to copy and update for your Flask hosting setup examples.
-
+[OPT Volunteers Welcome!](../community/members/welcome) - Overview and New Member Signup
 
 ## 1. Javascript Data Visualization (JS)
 
@@ -135,6 +125,8 @@ Related frontend deployments deployed to Google Cloud with Flask can be tested i
 TO DO: Javascript interface to choose from our existing pre-processed [job data](/realitystream) and Google Data Commons API.
 
 TO DO: Send URL hash # parameters to our [Run Models CoLab](/realitystream) using a [webhook on Google Cloud (ChatGPT)](https://chatgpt.com/share/670e7002-85fc-8003-a466-9b682012f3ea)
+
+TO DO: Use our [cloud repo](https://github.com/ModelEarth/cloud) and add Flask deployment documentation. [Our webhook repo](https://github.com/ModelEarth/webhook) has Google Cloud Flask documentation to copy and update for your Flask hosting setup examples.
 
 <!--
 **Anvil with our CoLabs:**
