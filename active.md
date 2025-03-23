@@ -102,7 +102,7 @@ TO DO: [Add localsite.js to OpenWebUI](/projects/location/) - steps for [Buildin
 
 ### Earthscape NextJS Chatbot UI fork
 
-Our [Earthscape fork of Chatbot UI](/earthscape/app/) - React, Supabase and [NextJS Hosting using GitHub Pages](https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/)
+Our [Earthscape fork of Chatbot UI](https://model.earth/earthscape/app/) - React, Supabase and [NextJS Hosting using GitHub Pages](https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/)
 
 
 ### Storyboard Generator
