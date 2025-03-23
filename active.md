@@ -37,7 +37,7 @@ IN PROGRESS: [Javascript Timelines from Google Data Commons API](/data-commons/d
 
 IN PROGRESS: Update our existing [address auto-lookup](../home/) to set state=NY etc. in the URL hash. (Currently visible on [localhost only](http://localhost:8887/home/).) - Jennifer(Jeni)
 
-We're pulling images and video via [our FeedPlayer](https://model.earth/feed) which can be pointed at a Github repo or any API.
+We're pulling images and video via [our FeedPlayer](../feed) which can be pointed at a Github repo or any API.
 
 <!--
 **More Data Commons Visualization Projects**
@@ -64,11 +64,11 @@ TO DO: Integrate [our API storage in javascript](/localsite/tools/storage/api/) 
 
 TO DO: Pull SeeClickFix API and feed to Langchain
 
-https://model.earth/feed/view/#feed=seeclickfix-311
+../feed/view/#feed=seeclickfix-311
 
 Also, by choosing "SeeClickFix - v2" in the upper right dropdown menu images are displayed:
 
-https://model.earth/feed
+../feed
 
 The Langchain API "planet" repo could identify 3 solvable issues in the SeeClickFix feed and provide cost estimates for resolving issues with the involvement of local contractors and government agencies.
 
@@ -212,7 +212,7 @@ Bhavna, Yash, Apurva, Vennela
 
 Embeddable player for Image and Video sequences pulled from APIs and Google Sheets
 
-- [Discord API](https://discord.com/developers/docs/intro) - Our Team list is pulled from Discord into our [Feed Player](https://model.earth/feed/) 
+- [Discord API](https://discord.com/developers/docs/intro) - Our Team list is pulled from Discord into our [Feed Player](../feed/) 
 
 - [Feed Player](../feed/dist) - Video and Images from API feeds and Google Sheet lists
 - [NASA Feed Viewer](../feed/view/#feed=nasa) - JSON, YAML, CSS, RSS - [Address Lookup](/feed/view/#feed=311)
