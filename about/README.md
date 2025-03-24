@@ -66,9 +66,9 @@ One of the great UX features of our design is that content is never obstructed b
 <br>
 
 
-DreamStudio Model.Earth is an open source project coordinated by [Loren Heyns](https://dreamstudio.com/resume) and [Democracy Lab](https://www.democracylab.org/projects/834) volunteers. 
+DreamStudio open source projects are coordinated by [Loren Heyns](https://dreamstudio.com/resume) and [Democracy Lab](https://www.democracylab.org/projects/834) volunteers. 
 
 ---
 
-&copy; 2025 DreamStudio - Collaborative&nbsp;Data&nbsp;Science - DreamStudio Earth LLC
+&copy; 2025 DreamStudio - Collaborative&nbsp;Data&nbsp;Science
 
