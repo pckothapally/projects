@@ -167,6 +167,8 @@ Contributors: Gary, Satya, Himanshu, Sahil
 
 TO DO: [Chord Chart Data Prep](/io/charts/chord/) <!-- Poorna and everyone interested --> - Bin
 
+TO DO: [Chort Chart](https://model.earth/profile/charts/d3/chord-diagram/) - Bindu
+
 TO DO: [Python to pull Harmonized Code (HS) lookups into Supabase](/profile/harmonized-system/) - Kruthi
 
 TO DO: [Sankey Industry eChart](/profile/charts/echarts/sankey-nodeAlign-left.html) - eCharts uses a common echarts.min.js file which we'll load in [Feed Viewer](/feed/view)
