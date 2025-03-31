@@ -107,13 +107,11 @@ Our [Earthscape fork of Chatbot UI](https://model.earth/earthscape/app/) - React
 
 ### Storyboard Generator
 
-Images and Videos from .CSV prompts 
-for Interactive presentation backgrounds, Request Visualization
+Generate .CSV prompt files from location data pulled from Census stats and Google Data Commons.
 
-- [Storyboard Generator](/requests/) - Loads location details using [community datasets](/community-data/)
-- [Ai Request Visualization](/requests/) - Loads prompts from .csv files and outputs to GitHub
-- [OpenWebUI image generation](https://docs.openwebui.com/tutorials/images/) 
-- [Google Notebook LM](https://notebooklm.google)
+- [Storyboard Active Reader](/requests/) - Loads prompts from .csv files and outputs to GitHub
+- [OpenWebUI image generation](https://docs.openwebui.com/tutorials/images/) - with AUTOMATIC1111, ComfyUI, and OpenAI DALL·E
+- [Google Notebook LM](https://notebooklm.google) - Train with PDFs, websites, videos, audio files, Google Docs
 
 
 ## 3. RealityStream Machine Learning - Server-Side Python (ML)
