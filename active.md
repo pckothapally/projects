@@ -159,7 +159,7 @@ TO DO: Processing Exiobase in CoLabs, displaying with javascript
 
 Contributors: Gary, Satya, Himanshu, Sahil
 
-[International Trade Flow SQL Data Prep](/profile/trade) - Exiobase Colab and charts
+[International Trade Flow SQL Data Prep](/profile/trade) - Exiobase Colab and charts - Poorna
 
 [Our little trade flow Sankey](/profile/trade/) - [Big Sankey](https://sankey.theshiftproject.org/) - [Our Fork with python 3.10](https://github.com/ModelEarth/Mapping-global-ghg-emissions) and [bug resolved](https://github.com/baptiste-an/Mapping-global-ghg-emissions/issues/2)
 
